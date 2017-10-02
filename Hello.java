@@ -35,6 +35,6 @@ public class Hello { // kalo pake public nama class harus sama kaya nama file,
         int i = (int) g;
         System.out.println("char N dalam byte " +i); //yang ditampilin hasil dari bil ASCII
         
-        System.out.println("Niken Hapsari");
+        System.out.println("Niken Hapsari Cantik");
     }
 }
